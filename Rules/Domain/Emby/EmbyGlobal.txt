@@ -1,0 +1,73 @@
+# NAME: EmbyGlobal
+# AUTHOR: justdoiting Edward
+# HOMEPAGE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Emby/Emby.list
+# HOMEPAGE: https://github.com/mist-whisper/Loon/blob/master/Rules/Emby/EmbyGlobal.list
+# UPDATED: 2025-01-12
+# DOMAIN: 7
+# DOMAIN-KEYWORD: 4
+# DOMAIN-SUFFIX: 44
+# PROCESS-NAME: 1
+# TOTAL: 56
+
+yhemby.top
+pub1.emby.wtf
+pub1.term.wtf
+pub2.emby.wtf
+pub2.term.wtf
+pub3.emby.wtf
+pub3.term.wtf
+emby.enjoyit.eu.org
+emby.lcloud.wiki
+notnetflix.cos.cat
+
+misakaf.org
+agahk1.jmsooo.com
+agajp1.jmsooo.com
+agasg1.jmsooo.com
+aws.jmsooo.com
+cf1.jmsooo.com
+cristiamo.xyz
+emby.cjpc.cc
+emby.cjpc.tv
+emby.cjpc.xyz
+emby.cristiamo.top
+emby.flowercloud.yt
+emby.immtel.com
+emby.maying.club
+emby.mcwy.me
+emby.mdss.cloud
+emby.neko.edu.rs
+emby.nexitally.com
+emby.nyancat.net
+emby.ok.edu.hk
+emby.paoche.ooo
+emby.prprcloud.com
+emby.wtf
+emby.xeton.dev
+emby.ytoo.li
+embymv.tk
+embyplus.org
+embyserver.ga
+hinet.jmsooo.com
+imetyou.top
+jellyfin.asia
+jellyfin.xeton.dev
+line.emby.men
+mickeycloud.com
+movie.xeton.dev
+ntt1.jmsooo.com
+ohhhh.org
+peachmv.me
+pilipiliultra.com
+plusmedia.site
+poloemby.xyz
+pornemby.club
+servers.xeton.dev
+xmsl.org
+
+wtf
+emby.wtf
+jmsooo
+odysseyplus
+
+com.mb.android
