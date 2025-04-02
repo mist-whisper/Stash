@@ -1,0 +1,24 @@
+# NAME: EmbyMainland
+# AUTHOR: justdoiting Edward
+# HOMEPAGE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Emby/Emby.list
+# HOMEPAGE: https://github.com/mist-whisper/Loon/blob/master/Rules/Emby/EmbyMainland.list
+# UPDATED: 2025-01-16
+# DOMAIN: 8
+# DOMAIN-KEYWORD: 3
+# DOMAIN-SUFFIX: 1
+# TOTAL: 12
+
+7777777.buzz
+193.122.114.13
+dpx1.1110111.top
+581658.best
+0570.123456.buzz
+test.123456.buzz //地平线测速
+cf.imetyou.top
+music.mefun.org
+
+temby
+dpx
+dpxemby
+
+285286.xyz
